@@ -23,6 +23,7 @@ def test_integer_set_2():
 if __name__ == "__main__":
     pytest.main()
 
+
 # @pytest.fixture
 # def integer_set():
 #     return IntegerSet([0, 1, 2, 3, 4, 5])

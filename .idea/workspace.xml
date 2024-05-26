@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95117e0e-85df-472a-b6fe-d3e807a90bc9" name="Changes" comment="HW - edit test, it works...">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="95117e0e-85df-472a-b6fe-d3e807a90bc9" name="Changes" comment="HW - new version">
       <change beforePath="$PROJECT_DIR$/hw_integers_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_integers_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716664072317</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="HW - new version">
+      <option name="closed" value="true" />
+      <created>1716724745739</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1716724745739</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -167,6 +174,7 @@
     <MESSAGE value="HW - integer task works, edit" />
     <MESSAGE value="HW - edit test, it works" />
     <MESSAGE value="HW - edit test, it works..." />
-    <option name="LAST_COMMIT_MESSAGE" value="HW - edit test, it works..." />
+    <MESSAGE value="HW - new version" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW - new version" />
   </component>
 </project>
